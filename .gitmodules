@@ -1,0 +1,3 @@
+[submodule "Plugins/Chess3D"]
+	path = Plugins/Chess3D
+	url = git@github.com:herob4u/UE_ChessPlugin.git
